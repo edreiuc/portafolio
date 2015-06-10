@@ -54,9 +54,51 @@
 					</div>
 					<div class="col-md-9 col-sm-6 cuadro1">
 						<div class="blocke2"><h2>Sobre mi</h2></div>
-						<p>Soy un joven de 23 años entusiasta por el desarrollo de tecnologías web, mis principales objetivos son el enriquecimiento de mis habilidades como desarrollador de software, tengo gusto por el aprendizaje, pasión por la música y amor por la fotografía, me considero una proactiva, tiendo a salir de la monotonía para efectuar de otra manera mis actividades y variar la dinámica de las mismas. Soy desarrollador de software y es un placer estar al servicio de los demás. </p>
-						<div class="pull-right floatrig"><button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Más Información</button></div>
+						<p>Soy un joven de 23 años entusiasta por el desarrollo de tecnologías web, mis principales objetivos son el enriquecimiento de mis habilidades como desarrollador de software, tengo gusto por el aprendizaje, pasión por la música y amor por la fotografía, me considero una persona proactiva, tiendo a salir de la monotonía para efectuar de otra manera mis actividades y variar la dinámica de las mismas. Soy desarrollador de software y es un placer estar al servicio de los demás. </p>
+						<div class="pull-right floatrig">
+						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Más Información</button></div>
 					</div>
+					<!-- Modal -->
+							<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+							  <div class="modal-dialog">
+							    <div class="modal-content">
+							      <div class="modal-header">
+							        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+							        <h3 class="modal-title" id="myModalLabel">Biografía (25/12/1991)</h3>
+							      </div>
+							      <div class="modal-body">
+							        <div class="biograf">
+							        	<h4>CEDULA PROFESIONAL <small>08748267</small></h4>
+							        	<p></p>
+							        	<hr>
+							        	<h4>FORMACION ACADEMICA</h4>
+							        	<div class="center-block">
+							        		<h5><strong>Institut Universitaire Technologique de Troyes, Troyes, 10000, Francia</strong></h5>
+							        		<p>Métiers de l'internet et du multimedia</p>
+							        		<h5><strong>Universidad Tecnológica Metropolitana, Santa Rosa, 97000, Merida, Yucatán</strong></h5>
+							        		<p>Multimedia y comercio electrónico</p>
+							        		<h5><strong>Colegio de Bachilleres del Estado de Yucatán Plantel Umán, 97390, Umán, Yucatán</strong></h5>
+							        		<p>Físico matemático</p>
+							        	</div>
+							        	<hr>
+							        	<h4>CONOCIMIENTOS INFORMATICOS</h4>
+							        	<p>*Paqueteria Office *Photoshop *Illustrator *Premiere *After Effects *3D MAX *SublimeText</p>
+							        	<p>*PHP *JavaScript *Jquery *Bootstrap *AJAX *Css3 *HTML5</p>
+							        	<hr>
+							        	<h4>IDIOMAS</h4>
+							        	<ol>
+							        		<li>Frances Nivel B1.3</li>
+							        		<li>Ingles A2</li>
+							        	</ol>
+							        </div>
+							      </div>
+							      <div class="modal-footer">
+							        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+							<!-- modal -->
 				</div>
 				<hr class="style-six" />
 				<div class="row space1">
