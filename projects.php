@@ -7,13 +7,13 @@
 			<div class="container wit">
 				<div class="row padbuttom">
 					<div class="col-md-12">
-						<h2>Mis aportaciones</h2>	
+						<div class="blocke2"><h2>Algunas aportaciones</h2></div>	
 					</div>
 					<div class="col-md-12">
 						<div class="row">
 						  <div class="col-sm-6 col-md-4">
 						    <div class="thumbnail">
-						      <img src="img/sanjose.jpg" alt="SanJoseChakan">
+						      <img src="img/proj/sanjose.jpg" alt="SanJoseChakan">
 						      <div class="caption">
 						        <h3>San José Chakán</h3>
 						        <p>Integración de maqueta y creación de backend basico para gestión de contenidos</p>
@@ -24,7 +24,7 @@
 
 						  <div class="col-sm-6 col-md-4">
 						    <div class="thumbnail">
-						      <img src="img/xpatyucatan.jpg" alt="expatyucatan">
+						      <img src="img/proj/xpatyucatan.jpg" alt="expatyucatan">
 						      <div class="caption">
 						        <h3>Expatyucatan</h3>
 						        <p>Desarollo de modulo favoritos e integración de backend para la gestión del mismo</p>
@@ -35,7 +35,7 @@
 
 						  <div class="col-sm-6 col-md-4">
 						    <div class="thumbnail">
-						      <img src="img/rcsistema.jpg" alt="rcsistema">
+						      <img src="img/proj/rcsistema.jpg" alt="rcsistema">
 						      <div class="caption">
 						        <h3>RC.SISTEMA</h3>
 						        <p>Integración de nueva maqueta para el sitio y modulo de consultoria en servicios</p>
