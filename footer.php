@@ -19,7 +19,7 @@
               <div class="col-lg-12 espacio1 fontnormal"><p>Sitio elaborado por Samuel UC - Copyright © 2015. Todos los Derechos Reservados</p></div>
             </div>
       </div>
-    </div>
+  </div>
 
 <script src="js/jquery.js" type="text/javascript"></script>
 <script src="js/bootstrap.min.js" type="text/javascript"></script>
