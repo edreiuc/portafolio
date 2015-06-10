@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>sitio-SamuelUC</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="web design and web development - diseño y desarrollo web">
 	<meta name="keywords" content="HTML,CSS,Jquery,JavaScript,Boostrap,Desarrollo web,Diseño,Fotografia">
 	<meta name="author" content="Samuel UC">	
@@ -19,10 +20,10 @@
 		<div class="row blanco">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6 name">
+					<div class="col-md-6 col-xs-12 name">
 						<a href="index.php"><h1>Samuel UC <small>Designer | Web developer</small></h1></a>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-6 col-xs-12">
 					<br>
 						<nav>
 						  <div class="container-fluid">
