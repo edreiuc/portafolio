@@ -44,7 +44,7 @@
 						          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">TRABAJOS <span class="caret"></span></a>
 						          <ul class="dropdown-menu" role="menu">
 						            <li><a class="hvr-underline-from-center" href="projects.php">PROYECTOS</a></li>
-						            <li><a class="hvr-underline-from-center" href="desings.php">DISEÑOS</a></li>
+						            <li><a class="hvr-underline-from-center" href="designs.php">DISEÑOS</a></li>
 						            <li><a class="hvr-underline-from-center" href="integrations.php">INTREGACIONES</a></li>
 						            <li class="divider"></li>
 						            <li><a class="hvr-underline-from-center" href="photographies.php">FOTOGRAFIA</a></li>
