@@ -1,4 +1,6 @@
 <?php
+	$titlesite = 'SamuelUC - Inicio';
+	$metadescription = '<meta name="description" content="Descripcion personal y profesional de mis habilidades y capacidades">';
 	include 'header.php';
 ?>
 		<div class="row">
@@ -127,7 +129,7 @@
 						  </div>
 						  <div class="media-body">
 						    <h4 class="media-heading">CSS3</h4>
-						    <p>viene con interesantes novedades que permitirán hacer webs más elaboradas y más dinámicas, con mayor separación entre estilos y contenidos. Dará soporte a muchas necesidades de las webs actuales, sin tener que recurrir a trucos de diseñadores o lenguajes de programación.</p>
+						    <p>Viene con interesantes novedades que permitirán hacer webs más elaboradas y más dinámicas, con mayor separación entre estilos y contenidos. Dará soporte a muchas necesidades de las webs actuales, sin tener que recurrir a trucos de diseñadores o lenguajes de programación.</p>
 						  </div>
 						</div>
 					</div>
@@ -152,7 +154,7 @@
 						  </div>
 						  <div class="media-body">
 						    <h4 class="media-heading">Jquery</h4>
-						   	<p> permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web. Fue presentada el 14 de enero de 2006 en el BarCamp NYC. jQuery es la biblioteca de JavaScript más utilizada.</p>
+						   	<p> Permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web. Fue presentada el 14 de enero de 2006 en el BarCamp NYC. jQuery es la biblioteca de JavaScript más utilizada.</p>
 						  </div>
 						</div>
 					</div>

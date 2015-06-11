@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>sitio-SamuelUC</title>
+	<title><?php echo $titlesite; ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="description" content="web design and web development - diseño y desarrollo web">
+	<?php echo $metadescription; ?>
 	<meta name="keywords" content="Samuel Uc,HTML,CSS,Jquery,JavaScript,Boostrap,Desarrollo web,Diseño,Fotografia">
 	<meta name="author" content="Samuel UC">	
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -45,7 +45,7 @@
 						          <ul class="dropdown-menu" role="menu">
 						            <li><a class="hvr-underline-from-center" href="projects.php">PROYECTOS</a></li>
 						            <li><a class="hvr-underline-from-center" href="designs.php">DISEÑOS</a></li>
-						            <li><a class="hvr-underline-from-center" href="integrations.php">INTREGACIONES</a></li>
+						            <li><a class="hvr-underline-from-center" href="integrations.php">INTEGRACIONES</a></li>
 						            <li class="divider"></li>
 						            <li><a class="hvr-underline-from-center" href="photographies.php">FOTOGRAFIA</a></li>
 						          </ul>

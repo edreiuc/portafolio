@@ -1,4 +1,6 @@
 <?php
+	$titlesite = 'SamuelUC - Contacto';
+	$metadescription = '<meta name="description" content="Detalles e informacion de contacto, correos electronicos">';
 	include 'header.php';
 ?>
 	<div class="row">

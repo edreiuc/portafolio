@@ -1,4 +1,6 @@
 <?php
+	$titlesite = 'SamuelUC - Proyectos';
+	$metadescription = '<meta name="description" content="Catalogo de participaciones de proyectos puestos en produccion">';
 	include 'header.php';
 ?>
 	<div class="row">
