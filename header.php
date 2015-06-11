@@ -50,7 +50,7 @@
 						            <li><a class="hvr-underline-from-center" href="photographies.php">FOTOGRAFIA</a></li>
 						          </ul>
 						        </li>
-						        <li><a class="hvr-underline-from-center" href="#">CONTACTO</a></li>
+						        <li><a class="hvr-underline-from-center" href="contact.php">CONTACTO</a></li>
 						      </ul>
 						    </div><!-- /.navbar-collapse -->
 						  </div><!-- /.container-fluid -->
