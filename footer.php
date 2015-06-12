@@ -4,7 +4,7 @@
             <div class="row espacio1">
               <div class="col-md-8">
                  <br>
-                 <p><strong>"</strong>Porque Jehová da la sabiduría, Y de su boca viene el conocimiento y la inteligencia.<strong>"</strong>
+                 <p><strong>"</strong><em><u>Porque Jehová da la sabiduría, Y de su boca viene el conocimiento y la inteligencia.</u></em><strong>"</strong></p>
                  <h3>Prov. 2:6</h3>
               </div>
               <div class="col-md-4 textcentrado">

@@ -1,5 +1,5 @@
 <?php
-	$titlesite = 'SamuelUC - Proyectos';
+	$titlesite = 'Samuel UC Proyectos';
 	$metadescription = '<meta name="description" content="Catalogo de participaciones de proyectos puestos en produccion">';
 	include 'header.php';
 ?>

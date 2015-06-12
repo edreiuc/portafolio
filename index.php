@@ -1,5 +1,5 @@
 <?php
-	$titlesite = 'SamuelUC - Inicio';
+	$titlesite = 'Samuel UC Inicio';
 	$metadescription = '<meta name="description" content="Descripcion personal y profesional de mis habilidades y capacidades">';
 	include 'header.php';
 ?>

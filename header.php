@@ -5,7 +5,7 @@
 	<title><?php echo $titlesite; ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<?php echo $metadescription; ?>
-	<meta name="keywords" content="Samuel Uc,HTML,CSS,Jquery,JavaScript,Boostrap,Desarrollo web,Diseño,Fotografia">
+	<meta name="keywords" content="Samuel Uc,HTML,CSS,Jquery,JavaScript,Boostrap,Desarrollo,web,Diseño,Fotografia,Integraciones,Proyectos,Diseños,Samuel UC">
 	<meta name="author" content="Samuel UC">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/mystyle.css">

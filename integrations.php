@@ -1,5 +1,5 @@
 <?php
-	$titlesite = 'SamuelUC - Integraciones';
+	$titlesite = 'Samuel UC Integraciones';
 	$metadescription = '<meta name="description" content="Ejemplos de trabajos a integrar a basados en mockups usando la estructura bootstrap">';
 	include 'header.php';
 ?>
