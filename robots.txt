@@ -1,0 +1,3 @@
+Sitemap: http://edreiuc.esy.es/sitemap.xml
+User-agent: *
+Disallow: /admin/
