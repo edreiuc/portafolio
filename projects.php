@@ -1,6 +1,7 @@
 <?php
-	$titlesite = 'Samuel UC Proyectos';
-	$metadescription = '<meta name="description" content="Catalogo de participaciones de proyectos puestos en produccion">';
+	$titlesite = 'Samuel UC Proyectos, referencias de integración en proyectos para gestión de backend';
+	$metadescription = '<meta name="description" content="Catalogo de participaciones de proyectos puestos en producción, thumbnails de proyectos integrados a producciones reales, integraciones de plantillas y desarrollo en php.">';
+	$metakey= '<meta name="keywords" content="referencias,paginas,desarrolladas,profesionales,Proyectos">';
 	include 'header.php';
 ?>
 	<div class="row">
@@ -37,7 +38,7 @@
 
 						  <div class="col-sm-6 col-md-4">
 						    <div class="thumbnail">
-						      <img src="img/proj/rcsistema.jpg" alt="rcsistema">
+						      <img src="img/proj/rcsistema.jpg" alt="rcsistemasitio">
 						      <div class="caption">
 						        <h3>RC.SISTEMA</h3>
 						        <p>Integración de nueva maqueta para el sitio y modulo de consultoria en servicios</p>

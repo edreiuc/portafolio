@@ -1,6 +1,7 @@
 <?php
-	$titlesite = 'Samuel UC Contacto ';
+	$titlesite = 'Samuel UC Contacto, pagina con detalles de cuentas redes sociales, correos electronicos ';
 	$metadescription = '<meta name="description" content="Detalles e informacion de contacto, correos electronicos">';
+	$metakey= '<meta name="keywords" content="pagina,principal,sitio,web,profesional,Inicio,Samuel,UC">';
 	include 'header.php';
 ?>
 	<div class="row">
@@ -20,6 +21,7 @@
 			</div>
 		</div>
 	</div>
+	<br>
 	<br>
 	<br>
 	<br>

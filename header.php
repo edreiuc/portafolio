@@ -5,15 +5,16 @@
 	<title><?php echo $titlesite; ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<?php echo $metadescription; ?>
-	<meta name="keywords" content="Samuel Uc,HTML,CSS,Jquery,JavaScript,Boostrap,Desarrollo,web,Diseño,Fotografia,Integraciones,Proyectos,Diseños,Samuel UC">
+	<?php echo $metakey; ?>
 	<meta name="author" content="Samuel UC">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="css/mystyle.css">
-	<link rel="stylesheet" type="text/css" href="css/hover.css">
-	<link rel="stylesheet" type="text/css" href="css/stikyfooter.css">
-	<link rel="stylesheet" type="text/css" href="css/socialfoot.min.css">
+	<link rel="alternate" hreflang="es" href="http://edreiuc.esy/"/>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="css/mystyle.css"/>
+	<link rel="stylesheet" type="text/css" href="css/hover.css"/>
+	<link rel="stylesheet" type="text/css" href="css/stikyfooter.css"/>
+	<link rel="stylesheet" type="text/css" href="css/socialfoot.min.css"/>
 	<link rel="canonical" href="https://edreiuc.esy.es" />
-	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"/>
 	<link rel="shortcut icon" href="img/favicon.ico" /> 
 </head>
 <body>

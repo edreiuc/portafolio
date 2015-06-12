@@ -1,6 +1,7 @@
 <?php
-	$titlesite = 'Samuel UC Inicio';
-	$metadescription = '<meta name="description" content="Descripcion personal y profesional de mis habilidades y capacidades">';
+	$titlesite = 'Samuel UC Inicio, pagina principal del sitio web profesional';
+	$metadescription = '<meta name="description" content="Descripción personal y profesional de mis habilidades y capacidades, información sobre las herramientas y detalles sobre mis formaciones académicas.">';
+	$metakey= '<meta name="keywords" content="pagina,principal,sitio,web,profesional,Inicio,Samuel,UC">';
 	include 'header.php';
 ?>
 		<div class="row">
@@ -15,13 +16,13 @@
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner" role="listbox">
 			    <div class="item active">
-			      <img src="img/s2.jpg" alt="geometry">
+			      <img src="img/s2.jpg" alt="geometry wallpaper desing">
 			      <div class="carousel-caption">
 			      		<h3>Sitios web y aplicaciones</h3>			     
 			      </div>
 			    </div>
 			    <div class="item">
-			      <img src="img/s3.jpg" alt="ideas">
+			      <img src="img/s3.jpg" alt="ideas innovaciones desarrollo">
 			      <div class="carousel-caption">
 			        <h3>Mejorando tus oportunidades</h3>
 			      </div>
@@ -46,7 +47,7 @@
 					
 					<div class="col-sm-6 col-md-3">
 					    <div class="thumbnail">
-					      <img src="img/2.jpg" alt="samuel_Uc">
+					      <img src="img/2.jpg" alt="foto samuel Uc">
 					      <div class="caption">
 					        <h3>Samuel Uc Angulo</h3>
 					        <p>23 años, Mexicano</p>
@@ -112,7 +113,7 @@
 						<div class="media">
 						  <div class="media-left">
 						    <a href="#">
-						      <img class="media-object" src="img/html5.png" alt="html5">
+						      <img class="media-object" src="img/html5.png" alt="html5 logotipo">
 						    </a>
 						  </div>
 						  <div class="media-body">
@@ -124,7 +125,7 @@
 						<div class="media">
 						  <div class="media-left">
 						    <a href="#">
-						      <img class="media-object" src="img/css-64.png" alt="css3">
+						      <img class="media-object" src="img/css-64.png" alt="css3 logotipo">
 						    </a>
 						  </div>
 						  <div class="media-body">
@@ -137,7 +138,7 @@
 						<div class="media">
 						  <div class="media-left">
 						    <a href="#">
-						      <img class="media-object" src="img/javascript-64.png" alt="js">
+						      <img class="media-object" src="img/javascript-64.png" alt="js logotipo">
 						    </a>
 						  </div>
 						  <div class="media-body">
@@ -149,7 +150,7 @@
 						<div class="media">
 						  <div class="media-left">
 						    <a href="#">
-						      <img class="media-object" src="img/jquery.png" alt="jquery">
+						      <img class="media-object" src="img/jquery.png" alt="jquery logotipo">
 						    </a>
 						  </div>
 						  <div class="media-body">
