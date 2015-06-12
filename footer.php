@@ -1,5 +1,4 @@
-	</div><!--FIN CONTAINER-FLID-->
-  <script type="text/javascript" src="http://counter6.bestfreecounterstat.com/private/countertab.js?c=f4f28e32f21bf93b192856751769c787"></script>        
+	</div><!--FIN CONTAINER-FLID-->      
 	<div id="footer">
       <div class="container fontfoot">
             <div class="row espacio1">
