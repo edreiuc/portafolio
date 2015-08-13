@@ -14,7 +14,7 @@
 			    <ul>
 			    	<li><i class="fa fa-envelope-square"></i>  sam_edreiuc@live.com</li>
 			    	<li><i class="fa fa-envelope-square"></i>  ucangulosamuel@gmail.com</li>
-			    	<li><i class="fa fa-linkedin-square"></i>  Linkedin</li>
+			    	<li><i class="fa fa-linkedin-square"></i>  Linkedin Samuel UC</li>
 			    	<li><i class="fa fa-twitter-square"></i>  @Uc_Samuel</li>
 			    </ul>
 			  </div>
