@@ -23,6 +23,7 @@
     src: url('../fonts/Oswald/Oswald-Light.ttf') format('truetype');
 }
 
+
 .fontnormal{
 	font-family: 'Oswald-Light';
 	text-align: center;
@@ -54,11 +55,19 @@ body{
 .space1{
 	padding-top: 2%;
 }
+@media (max-width: 384px) {
+    .name h1{
+    text-align: center;
+    font-size: 2.1em;
+	}
+}
 
 .name h1{
 	font-family: 'Play-Bold', sans-serif;
 	font-weight: bold;
 }
+
+
 
 .nav{
 	font-family: 'Oswald-Regular';
