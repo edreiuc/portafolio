@@ -16,6 +16,7 @@
 			    	<li><i class="fa fa-envelope-square"></i>  ucangulosamuel@gmail.com</li>
 			    	<li><i class="fa fa-linkedin-square"></i>  Linkedin</li>
 			    	<li><i class="fa fa-twitter-square"></i>  @Uc_Samuel</li>
+			    	<li><a class="linkCV" href="CV.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Descarga mi CV</a></li>
 			    </ul>
 			  </div>
 			</div>
